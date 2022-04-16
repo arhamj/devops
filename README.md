@@ -1,9 +1,5 @@
 # Devops
 
-## Docker
-
-TBA
-
 ## K8s
 
 1. Overview
@@ -18,11 +14,3 @@ TBA
 ### Links
 
 1. `https://youtu.be/X48VuDVv0do`
-
-## CI
-
-TBA
-
-## CD
-
-TBA
