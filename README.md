@@ -13,6 +13,7 @@ TBA
     - Setting up `mongo-db` with `mongo-express`
 5. Namespace
 6. Ingress
+7. Helm
 
 ### Links
 
