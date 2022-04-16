@@ -11,6 +11,8 @@ TBA
 3. Commands
 4. Example
     - Setting up `mongo-db` with `mongo-express`
+5. Namespace
+6. Ingress
 
 ### Links
 
